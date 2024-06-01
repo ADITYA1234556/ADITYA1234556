@@ -8,6 +8,9 @@ I am Aditya from India. I am passionate about AWS | Devops | Python and working 
 
 Skills: Python | Docker | Kubernetes | AWS | Networking | MySQL | UNIX | HTML | CSS |  Ansible | Terraform | Jenkins | Pycharm | VScode | Git |
 
+## Me after getting a project to work
+<img src="https://github.com/ADITYA1234556/ADITYA1234556/blob/main/dance-excited.gif" width = 300 />
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADITYA1234556)](https://github.com/anuraghazra/github-readme-stats)
 
