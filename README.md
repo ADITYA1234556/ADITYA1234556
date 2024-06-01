@@ -1,6 +1,11 @@
-## Hi there 👋
+### Hi there 👋, My name is Aditya
+#### Hard working and self motivated
+![Hard working and self motivated](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am Aditya from India. I am passionate about AWS | Devops | Python and working with Technology and explore its capabilities and enjoy the process of learning.
+
+
+Skills: Python | Docker | Kubernetes | AWS | Networking | MySQL | UNIX | HTML | CSS |  Ansible | Terraform | Jenkins | Pycharm | VScode | Git |
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADITYA1234556)](https://github.com/anuraghazra/github-readme-stats)
 
