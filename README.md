@@ -1,3 +1,11 @@
+### Hi there 👋, My name is Aditya
+#### Hard working and self motivated
+![Hard working and self motivated](https://media.licdn.com/dms/image/D5603AQHawlJg9wcAvA/profile-displayphoto-shrink_200_200/0/1699963265778?e=1722470400&v=beta&t=_i4N22GWWgztYAPzwOdIh9VqA4JXsKwJ2UUmQ97ykyY)
+
+I am Aditya from India. I am passionate about AWS | Devops | Python and working with Technology and explore its capabilities and enjoy the process of learning.
+
+
+Skills: Python | Docker | Kubernetes | AWS | Networking | MySQL | UNIX | HTML | CSS |  Ansible | Terraform | Jenkins | Pycharm | VScode | Git |
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADITYA1234556)](https://github.com/anuraghazra/github-readme-stats)
