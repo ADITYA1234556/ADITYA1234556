@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am Aditya from India. I am passionate about AWS | Devops | Python and working with Technology and explore its capabilities and enjoy the process of learning.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADITYA1234556)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **ADITYA1234556/ADITYA1234556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
