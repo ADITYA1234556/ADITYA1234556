@@ -6,7 +6,7 @@
 I am Aditya from India. I am passionate about AWS | Devops | Python and working with Technology and explore its capabilities and enjoy the process of learning.
 
 
-Skills: Python | Bash Scripting | YAML | JSON | Docker | Kubernetes | AWS | Networking | MySQL | UNIX | HTML | CSS |  Ansible | Terraform | Jenkins | Pycharm | VScode | Git | Maven | SonarQube | Nexus | Jenkins Pipeline | Docker files | Helm charts
+Skills: Python | Bash Scripting | YAML | JSON | Docker | Kubernetes | AWS | Networking | MySQL | UNIX | HTML | CSS |  Ansible | Terraform | Jenkins | Pycharm | VScode | Git | Maven | SonarQube | Nexus | Jenkins Pipeline | Docker files | Helm charts | Vagrant
 
 ## Me after getting a project to work
 <img src="https://github.com/ADITYA1234556/ADITYA1234556/blob/main/dance-excited.gif" width = 300 />
