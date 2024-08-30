@@ -10,7 +10,7 @@ Skills: Python | Bash Scripting | YAML | JSON | Docker | Kubernetes | AWS | Netw
 <img src="https://github.com/ADITYA1234556/ADITYA1234556/blob/main/unnamed.jpg" width = 300 />
 
 ## Me after getting a project to work
-<img src="https://github.com/ADITYA1234556/ADITYA1234556/blob/main/dance-excited.gif" width = 300 />
+<img src="https://github.com/ADITYA1234556/ADITYA1234556/blob/main/dance-excited.gif" width = 800 />
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADITYA1234556)](https://github.com/anuraghazra/github-readme-stats)
