@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Aditya
 #### Hard working and self motivated
 
-I am Aditya from India. I am passionate about AWS | Devops | Python and working with Technology and explore its capabilities and enjoy the process of learning.
+I am Aditya from India. Currently based in London, United Kingdom. Passionate about AWS, DevOps, and Python. Enthusiastic about exploring technology's capabilities and continuously learning. 
 
 
 Skills: Python | Bash Scripting | YAML | JSON | Docker | Kubernetes | AWS | Networking | MySQL | UNIX | HTML | CSS |  Ansible | Terraform | Jenkins | Pycharm | VScode | Git | Maven | SonarQube | Nexus | Jenkins Pipeline | Docker files | Helm charts | Vagrant
