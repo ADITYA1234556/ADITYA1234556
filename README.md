@@ -13,8 +13,7 @@ Skills: Python | Bash Scripting | YAML | JSON | Docker | Kubernetes | AWS | Netw
 <img src="https://github.com/ADITYA1234556/ADITYA1234556/blob/main/dance-excited.gif" width = 300 />
 
 
-[![Anurag's GitHub stats](https://github-readme-stats-eight-chi-50.vercel.app
-/api?username=ADITYA1234556&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-eight-chi-50.vercel.app/api?username=ADITYA1234556&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
