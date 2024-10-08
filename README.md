@@ -1,7 +1,7 @@
-### HARD WORKING AND SELF MOTIVATED
+# HARD WORKING AND SELF MOTIVATED
 
-### Hi there 👋, I'm Aditya
-#### Hard working and self motivated
+## Hi there 👋, I'm Aditya
+### Hard working and self motivated
 
 I am Aditya from India. Currently based in London, United Kingdom. Passionate about AWS, DevOps, and Python. Enthusiastic about exploring technology's capabilities and continuously learning. 
 
@@ -9,7 +9,7 @@ Skills: Python | Bash Scripting | YAML | JSON | Docker | Kubernetes | AWS | Netw
 
 <img src="https://github.com/ADITYA1234556/ADITYA1234556/blob/main/unnamed.jpg" width = 400 />
 
-## Me after getting a project to work
+### Me after getting a project to work
 <img src="https://github.com/ADITYA1234556/ADITYA1234556/blob/main/dance-excited.gif" width = 300 />
 
 
@@ -17,7 +17,7 @@ Skills: Python | Bash Scripting | YAML | JSON | Docker | Kubernetes | AWS | Netw
 
 
 
-**MY INFORMATION** 
+### MY INFORMATION 
 
 - 🔭 I’m currently working on **a web application using React and Node.js**.
 - 🌱 I’m currently learning **Stock Markets**.
@@ -28,5 +28,6 @@ Skills: Python | Bash Scripting | YAML | JSON | Docker | Kubernetes | AWS | Netw
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love hiking and have climbed several mountains around the world but suddenly I woke up and went back to sleep cause I love my bed!**
 
-
+### ⚡Recent Activity
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
