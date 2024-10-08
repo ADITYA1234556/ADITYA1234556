@@ -16,17 +16,15 @@ Skills: Python | Bash Scripting | YAML | JSON | Docker | Kubernetes | AWS | Netw
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADITYA1234556&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--
-**ADITYA1234556/ADITYA1234556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**MY INFORMATION** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **a web application using React and Node.js**.
+- 🌱 I’m currently learning **Stock Markets**.
+- 👯 I’m looking to collaborate on **open-source projects related to automation and cloud computing**.
+- 🤔 I’m looking for help with **Stocks and Crypto**.
+- 💬 Ask me about **Bash scripting, Docker, and Git**.
+- 📫 How to reach me: **adityanavaneethan98@gmail.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I love hiking and have climbed several mountains around the world but suddenly I woke up and went back to sleep cause I love my bed!**
+
