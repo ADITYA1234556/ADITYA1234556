@@ -28,3 +28,5 @@ Skills: Python | Bash Scripting | YAML | JSON | Docker | Kubernetes | AWS | Netw
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love hiking and have climbed several mountains around the world but suddenly I woke up and went back to sleep cause I love my bed!**
 
+
+<!--START_SECTION:activity-->
