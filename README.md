@@ -30,4 +30,4 @@ Skills: Python | Bash Scripting | YAML | JSON | Docker | Kubernetes | AWS | Netw
 
 ### ⚡Recent Activity
 <!--START_SECTION:activity-->
-
+<!--END_SECTION:activity-->
