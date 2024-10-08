@@ -30,4 +30,9 @@ Skills: Python | Bash Scripting | YAML | JSON | Docker | Kubernetes | AWS | Netw
 
 ### ⚡Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/ADITYA1234556/BASH_SCRIPTING/pull/3) in [ADITYA1234556/BASH_SCRIPTING](https://github.com/ADITYA1234556/BASH_SCRIPTING)
+2. 💪 Opened PR [#3](https://github.com/ADITYA1234556/BASH_SCRIPTING/pull/3) in [ADITYA1234556/BASH_SCRIPTING](https://github.com/ADITYA1234556/BASH_SCRIPTING)
+3. 🎉 Merged PR [#2](https://github.com/ADITYA1234556/BASH_SCRIPTING/pull/2) in [ADITYA1234556/BASH_SCRIPTING](https://github.com/ADITYA1234556/BASH_SCRIPTING)
+4. 💪 Opened PR [#2](https://github.com/ADITYA1234556/BASH_SCRIPTING/pull/2) in [ADITYA1234556/BASH_SCRIPTING](https://github.com/ADITYA1234556/BASH_SCRIPTING)
+5. 🎉 Merged PR [#1](https://github.com/ADITYA1234556/BASH_SCRIPTING/pull/1) in [ADITYA1234556/BASH_SCRIPTING](https://github.com/ADITYA1234556/BASH_SCRIPTING)
 <!--END_SECTION:activity-->
