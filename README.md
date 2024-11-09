@@ -30,9 +30,9 @@ Skills: Python | Bash Scripting | YAML | JSON | Docker | Kubernetes | AWS | Netw
 
 ### ⚡Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ADITYA1234556/docker-jenkins/pull/1#issuecomment-2464370125) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
-2. ❌ Closed PR [#1](https://github.com/ADITYA1234556/docker-jenkins/pull/1) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
-3. 💪 Opened PR [#1](https://github.com/ADITYA1234556/docker-jenkins/pull/1) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
-4. 💪 Opened PR [#1](https://github.com/ADITYA1234556/terraform-team-project/pull/1) in [ADITYA1234556/terraform-team-project](https://github.com/ADITYA1234556/terraform-team-project)
-5. 🎉 Merged PR [#3](https://github.com/ADITYA1234556/BASH_SCRIPTING/pull/3) in [ADITYA1234556/BASH_SCRIPTING](https://github.com/ADITYA1234556/BASH_SCRIPTING)
+1. ❌ Closed PR [#4](https://github.com/ADITYA1234556/docker-jenkins/pull/4) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
+2. 💪 Opened PR [#4](https://github.com/ADITYA1234556/docker-jenkins/pull/4) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
+3. 🎉 Merged PR [#3](https://github.com/ADITYA1234556/docker-jenkins/pull/3) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
+4. 💪 Opened PR [#3](https://github.com/ADITYA1234556/docker-jenkins/pull/3) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
+5. ❌ Closed PR [#2](https://github.com/ADITYA1234556/docker-jenkins/pull/2) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
 <!--END_SECTION:activity-->
