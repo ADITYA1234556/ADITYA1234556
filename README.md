@@ -30,9 +30,9 @@ Skills: Python | Bash Scripting | YAML | JSON | Docker | Kubernetes | AWS | Netw
 
 ### ⚡Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/ADITYA1234556/docker-jenkins/pull/4) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
-2. 💪 Opened PR [#4](https://github.com/ADITYA1234556/docker-jenkins/pull/4) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
-3. 🎉 Merged PR [#3](https://github.com/ADITYA1234556/docker-jenkins/pull/3) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
-4. 💪 Opened PR [#3](https://github.com/ADITYA1234556/docker-jenkins/pull/3) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
-5. ❌ Closed PR [#2](https://github.com/ADITYA1234556/docker-jenkins/pull/2) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
+1. ❌ Closed PR [#8](https://github.com/ADITYA1234556/docker-jenkins/pull/8) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
+2. 💪 Opened PR [#8](https://github.com/ADITYA1234556/docker-jenkins/pull/8) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
+3. ❌ Closed PR [#7](https://github.com/ADITYA1234556/docker-jenkins/pull/7) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
+4. 💪 Opened PR [#7](https://github.com/ADITYA1234556/docker-jenkins/pull/7) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
+5. 🎉 Merged PR [#6](https://github.com/ADITYA1234556/docker-jenkins/pull/6) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
 <!--END_SECTION:activity-->
