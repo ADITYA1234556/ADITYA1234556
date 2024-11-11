@@ -5,15 +5,13 @@
 
 I am Aditya from India. Currently based in London, United Kingdom. Passionate about AWS, DevOps, and Python. Enthusiastic about exploring technology's capabilities and continuously learning. 
 
-Skills: Python | Bash Scripting | YAML | JSON | Docker | Kubernetes | AWS | Networking | MySQL | UNIX | HTML | CSS |  Ansible | Terraform | Jenkins | Pycharm | VScode | Git | Maven | SonarQube | Nexus | Jenkins Pipeline | Docker files | Helm charts | Vagrant | CloudFormation
-
-<img src="https://github.com/ADITYA1234556/ADITYA1234556/blob/main/unnamed.jpg" width = 400 />
-
-### Me after getting a project to work
 <img src="https://github.com/ADITYA1234556/ADITYA1234556/blob/main/dance-excited.gif" width = 300 />
 
 <h1 align="center">Hi 👋, I'm Aditya Navaneethakrishnan</h1>
 <h3 align="center">Passionate about AWS, DevOps, and Python. Enthusiastic about exploring technology's capabilities and continuously learning.</h3>
+
+### Me after getting a project to work
+<img src="https://github.com/ADITYA1234556/ADITYA1234556/blob/main/unnamed.jpg" width = 400 />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya1234556&label=Profile%20views&color=0e75b6&style=flat" alt="aditya1234556" /> </p>
 
