@@ -12,37 +12,14 @@ Skills: Python | Bash Scripting | YAML | JSON | Docker | Kubernetes | AWS | Netw
 ### Me after getting a project to work
 <img src="https://github.com/ADITYA1234556/ADITYA1234556/blob/main/dance-excited.gif" width = 300 />
 
-
-[![Anurag's GitHub stats](https://github-readme-stats-eight-chi-50.vercel.app/api?username=ADITYA1234556&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### MY INFORMATION 
-
-- 🔭 I’m currently working on **a web application using React and Node.js**.
-- 🌱 I’m currently learning **Stock Markets**.
-- 👯 I’m looking to collaborate on **open-source projects related to automation and cloud computing**.
-- 🤔 I’m looking for help with **Stocks and Crypto**.
-- 💬 Ask me about **Bash scripting, Docker, and Git**.
-- 📫 How to reach me: **adityanavaneethan98@gmail.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I love hiking and have climbed several mountains around the world but suddenly I woke up and went back to sleep cause I love my bed!**
-
-### ⚡Recent Activity
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#12](https://github.com/ADITYA1234556/docker-jenkins/pull/12) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
-2. 💪 Opened PR [#12](https://github.com/ADITYA1234556/docker-jenkins/pull/12) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
-3. ❌ Closed PR [#11](https://github.com/ADITYA1234556/docker-jenkins/pull/11) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
-4. 💪 Opened PR [#11](https://github.com/ADITYA1234556/docker-jenkins/pull/11) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
-5. ❌ Closed PR [#10](https://github.com/ADITYA1234556/docker-jenkins/pull/10) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
-<!--END_SECTION:activity-->
-
-
 <h1 align="center">Hi 👋, I'm Aditya Navaneethakrishnan</h1>
 <h3 align="center">Passionate about AWS, DevOps, and Python. Enthusiastic about exploring technology's capabilities and continuously learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya1234556&label=Profile%20views&color=0e75b6&style=flat" alt="aditya1234556" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya1234556" alt="aditya1234556" /></a> </p>
+
+### MY INFORMATION 
 
 - 🔭 I’m currently working on **a web application using React and Node.js**
 
@@ -74,3 +51,12 @@ Skills: Python | Bash Scripting | YAML | JSON | Docker | Kubernetes | AWS | Netw
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya1234556&show_icons=true&locale=en" alt="aditya1234556" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya1234556&" alt="aditya1234556" /></p>
+
+### ⚡Recent Activity
+<!--START_SECTION:activity-->
+1. ❌ Closed PR [#12](https://github.com/ADITYA1234556/docker-jenkins/pull/12) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
+2. 💪 Opened PR [#12](https://github.com/ADITYA1234556/docker-jenkins/pull/12) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
+3. ❌ Closed PR [#11](https://github.com/ADITYA1234556/docker-jenkins/pull/11) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
+4. 💪 Opened PR [#11](https://github.com/ADITYA1234556/docker-jenkins/pull/11) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
+5. ❌ Closed PR [#10](https://github.com/ADITYA1234556/docker-jenkins/pull/10) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
+<!--END_SECTION:activity-->
