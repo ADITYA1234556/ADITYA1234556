@@ -22,7 +22,7 @@
 
 - 🤝 I’m looking for help with **Stocks and Crypto**
 
-- 💬 Ask me about **Bash scripting, Docker, and Git**
+- 💬 Ask me about **Python, Bash scripting, Devops, AWS and anything related to technology and trends**
 
 - 📫 How to reach me **adityanavaneethan98@gmail.com**
 
