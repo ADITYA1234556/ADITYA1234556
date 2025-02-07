@@ -47,7 +47,7 @@
 
 ### ⚡Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#12](https://github.com/ADITYA1234556/docker-jenkins/pull/12) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
+1. 💪 Opened PR [#1](https://github.com/ADITYA1234556/argocd-jenkins-istio-k8s/pull/1) in [ADITYA1234556/argocd-jenkins-istio-k8s](https://github.com/ADITYA1234556/argocd-jenkins-istio-k8s)
 2. 💪 Opened PR [#12](https://github.com/ADITYA1234556/docker-jenkins/pull/12) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
 3. ❌ Closed PR [#11](https://github.com/ADITYA1234556/docker-jenkins/pull/11) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
 4. 💪 Opened PR [#11](https://github.com/ADITYA1234556/docker-jenkins/pull/11) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
