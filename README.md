@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Navaneethakrishnan</h1>
-<h2 align="center">I am from India. Currently based in London, United Kingdom. I am hard working and self motivated</h2>
-<h3 align="center">Passionate about AWS, DevOps, and Python. Enthusiastic about exploring technology's capabilities and continuously learning.</h3>
+<h2 align="center">Originally from India, currently based in London, UK</h2>
+<h3 align="center">A passionate and self-motivated DevOps Engineer with expertise in AWS, Azure, and Python</h3>
+<h4 align="center">Always eager to explore new technologies, optimize cloud infrastructure, and drive automation.</h4>
 
 <div align="center">
   <img src="https://github.com/ADITYA1234556/ADITYA1234556/blob/main/unnamed.jpg" width="400" />
