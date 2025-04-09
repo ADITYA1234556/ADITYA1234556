@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Navaneethakrishnan</h1>
 <h2 align="center">Originally from India, currently based in London, UK</h2>
-<h3 align="center">A passionate and self-motivated DevOps Engineer with expertise in AWS, Azure, Python, Java, ReactJS and NodeJS </h3>
+<h3 align="center">A passionate and self-motivated DevOps Engineer with expertise in AWS, Azure, Python, Go, Java, ReactJS and NodeJS </h3>
 <h4 align="center">Always eager to explore new technologies, optimize cloud infrastructure, and drive automation.</h4>
 
 <div align="center">
