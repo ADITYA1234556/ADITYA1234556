@@ -4,7 +4,7 @@
 <h4 align="center">Always eager to explore new technologies, optimize cloud infrastructure, and drive automation.</h4>
 
 <div align="center">
-  <img src="https://github.com/ADITYA1234556/ADITYA1234556/blob/main/unnamed.jpg" width="400" />
+  <img src="https://github.com/ADITYA1234556/ADITYA1234556/blob/main/unnamed.jpg" width="100" />
 </div>
 
 <h2 align="center">Me after getting a project to work</h2>
