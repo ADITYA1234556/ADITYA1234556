@@ -48,9 +48,9 @@
 
 ### ⚡Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/ADITYA1234556/satash/pull/3) in [ADITYA1234556/satash](https://github.com/ADITYA1234556/satash)
-2. 💪 Opened PR [#3](https://github.com/ADITYA1234556/satash/pull/3) in [ADITYA1234556/satash](https://github.com/ADITYA1234556/satash)
-3. 🎉 Merged PR [#2](https://github.com/ADITYA1234556/satash/pull/2) in [ADITYA1234556/satash](https://github.com/ADITYA1234556/satash)
-4. 💪 Opened PR [#2](https://github.com/ADITYA1234556/satash/pull/2) in [ADITYA1234556/satash](https://github.com/ADITYA1234556/satash)
-5. 🎉 Merged PR [#1](https://github.com/ADITYA1234556/satash/pull/1) in [ADITYA1234556/satash](https://github.com/ADITYA1234556/satash)
+1. 💪 Opened PR [#8](https://github.com/ADITYA1234556/satash/pull/8) in [ADITYA1234556/satash](https://github.com/ADITYA1234556/satash)
+2. 🎉 Merged PR [#7](https://github.com/ADITYA1234556/satash/pull/7) in [ADITYA1234556/satash](https://github.com/ADITYA1234556/satash)
+3. 💪 Opened PR [#7](https://github.com/ADITYA1234556/satash/pull/7) in [ADITYA1234556/satash](https://github.com/ADITYA1234556/satash)
+4. 🎉 Merged PR [#6](https://github.com/ADITYA1234556/satash/pull/6) in [ADITYA1234556/satash](https://github.com/ADITYA1234556/satash)
+5. 💪 Opened PR [#6](https://github.com/ADITYA1234556/satash/pull/6) in [ADITYA1234556/satash](https://github.com/ADITYA1234556/satash)
 <!--END_SECTION:activity-->
