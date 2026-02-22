@@ -48,9 +48,9 @@
 
 ### ⚡Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/ADITYA1234556/sca-snyk-repo-master/pull/6) in [ADITYA1234556/sca-snyk-repo-master](https://github.com/ADITYA1234556/sca-snyk-repo-master)
-2. 💪 Opened PR [#12](https://github.com/ADITYA1234556/docker-jenkins/pull/12) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
-3. ❌ Closed PR [#11](https://github.com/ADITYA1234556/docker-jenkins/pull/11) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
-4. 💪 Opened PR [#11](https://github.com/ADITYA1234556/docker-jenkins/pull/11) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
-5. ❌ Closed PR [#10](https://github.com/ADITYA1234556/docker-jenkins/pull/10) in [ADITYA1234556/docker-jenkins](https://github.com/ADITYA1234556/docker-jenkins)
+1. 🎉 Merged PR [#3](https://github.com/ADITYA1234556/satash/pull/3) in [ADITYA1234556/satash](https://github.com/ADITYA1234556/satash)
+2. 💪 Opened PR [#3](https://github.com/ADITYA1234556/satash/pull/3) in [ADITYA1234556/satash](https://github.com/ADITYA1234556/satash)
+3. 🎉 Merged PR [#2](https://github.com/ADITYA1234556/satash/pull/2) in [ADITYA1234556/satash](https://github.com/ADITYA1234556/satash)
+4. 💪 Opened PR [#2](https://github.com/ADITYA1234556/satash/pull/2) in [ADITYA1234556/satash](https://github.com/ADITYA1234556/satash)
+5. 🎉 Merged PR [#1](https://github.com/ADITYA1234556/satash/pull/1) in [ADITYA1234556/satash](https://github.com/ADITYA1234556/satash)
 <!--END_SECTION:activity-->
